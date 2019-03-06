@@ -1,0 +1,775 @@
+!SESSION 2019-03-06 13:33:26.648 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_172
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -pluginCustomization plugin_customization.ini -pluginCustomization plugin_customization.ini
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -pluginCustomization plugin_customization.ini -data C:\Users\tedep\Dropbox (Ace Companies)\OpenAPI Essentials Workshop\Intro -pluginCustomization plugin_customization.ini
+
+!ENTRY org.eclipse.mylyn.tasks.core 4 0 2019-03-06 13:33:33.836
+!MESSAGE Unexpected error while loading repository template extensions
+!SUBENTRY 1 org.eclipse.mylyn.tasks.core 4 0 2019-03-06 13:33:33.836
+!MESSAGE Could not load repository template extension contributed by 'org.eclipse.mylyn.bugzilla.ide' with connectorKind 'bugzilla'
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-03-06 13:33:40.980
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\tedep'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:34:48.888
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:34:48.904
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:34:48.957
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:34:48.976
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:34:49.005
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:34:49.016
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:34:49.156
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:34:49.169
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:34:49.197
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:34:49.209
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:34:49.232
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:34:49.244
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:34:49.556
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0.v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0.v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:34:49.569
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0.v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0.v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:34:49.589
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:34:49.599
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:34:49.622
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:34:49.632
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:34:56.335
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:34:56.341
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:34:56.350
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:34:56.363
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:34:56.371
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:34:56.376
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:34:56.409
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:34:56.413
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:34:56.422
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:34:56.427
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:34:56.436
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:34:56.441
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:34:56.547
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0.v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0.v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:34:56.552
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0.v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0.v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:34:56.578
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:34:56.584
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:34:56.593
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:34:56.597
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY com.modelsolv.reprezen.generators.ide 1 0 2019-03-06 13:35:01.609
+!MESSAGE GenTemplate registry scanned in 6.107 seconds, discovered 217 GenTempaltes
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:02.445
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:02.450
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:02.458
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:02.463
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:02.471
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:02.476
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:02.508
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:02.513
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:02.522
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:02.526
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:02.534
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:02.539
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:02.656
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0.v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0.v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:02.660
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0.v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0.v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:02.668
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:02.673
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:02.681
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:02.685
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:35:05.279
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 1.562 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn4228493874681507707\TaxBlaster API_doc.html
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:06.581
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:06.586
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:06.595
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:06.600
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:06.608
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:06.614
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:06.647
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:06.671
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:06.683
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:06.689
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:06.699
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:06.704
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:06.821
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0.v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0.v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:06.825
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0.v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0.v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:06.833
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:06.837
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:06.844
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:06.849
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:09.724
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:09.729
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:09.739
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:09.744
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:09.751
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:09.756
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:09.787
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:09.791
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:09.799
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:09.803
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:09.811
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:09.815
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:09.913
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0.v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0.v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:09.918
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0.v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0.v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:09.929
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:09.933
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:09.941
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:09.947
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:39.653
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:39.657
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:39.666
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:39.671
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:39.680
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:39.684
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:39.717
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:39.721
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:39.732
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:39.738
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:39.749
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:39.754
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:39.835
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0.v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0.v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:39.840
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0.v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0.v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:39.847
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:39.850
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:39.857
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:35:39.862
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:36:18.551
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.125 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn2996442126734213283\TaxBlaster API_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:37:05.673
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.202 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:37:54.097
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.085 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:37:55.885
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.058 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:37:57.701
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.070 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:37:58.229
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.048 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:38:09.382
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.091 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:38:14.994
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.040 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:38:19.138
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.076 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:38:19.944
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.040 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:38:20.756
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.042 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:38:22.306
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.070 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:38:23.451
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.044 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:38:31.912
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.058 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:38:36.276
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.045 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:38:44.652
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.061 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:38:45.553
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.058 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:38:47.254
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.065 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:38:57.448
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.062 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:39:09.400
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.052 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:39:13.093
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.037 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.reprezen.swagedit.openapi3 4 0 2019-03-06 13:39:21.556
+!MESSAGE while parsing a block mapping
+ in 'reader', line 5, column 3:
+      version: 1.0.0
+      ^
+expected <block end>, but found Scalar
+ in 'reader', line 20, column 4:
+       Have you ever wished your pet wo ... 
+       ^
+
+
+!ENTRY com.reprezen.swagedit.openapi3 4 0 2019-03-06 13:39:26.173
+!MESSAGE while parsing a block mapping
+ in 'reader', line 5, column 3:
+      version: 1.0.0
+      ^
+expected <block end>, but found Scalar
+ in 'reader', line 20, column 4:
+       Have you ever wished your pet wo ... 
+       ^
+
+
+!ENTRY com.reprezen.swagedit.openapi3 4 0 2019-03-06 13:39:26.645
+!MESSAGE while parsing a block mapping
+ in 'reader', line 5, column 3:
+      version: 1.0.0
+      ^
+expected <block end>, but found Scalar
+ in 'reader', line 20, column 4:
+       Have you ever wished your pet wo ... 
+       ^
+
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:39:35.629
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.075 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.reprezen.swagedit.openapi3 4 0 2019-03-06 13:39:41.032
+!MESSAGE while parsing a block mapping
+ in 'reader', line 5, column 3:
+      version: 1.0.0
+      ^
+expected <block end>, but found Scalar
+ in 'reader', line 20, column 4:
+       Have you ever wished your pet wo ... 
+       ^
+
+
+!ENTRY com.reprezen.swagedit.openapi3 4 0 2019-03-06 13:39:41.495
+!MESSAGE while parsing a block mapping
+ in 'reader', line 5, column 3:
+      version: 1.0.0
+      ^
+expected <block end>, but found Scalar
+ in 'reader', line 20, column 4:
+       Have you ever wished your pet wo ... 
+       ^
+
+
+!ENTRY com.reprezen.swagedit.openapi3 4 0 2019-03-06 13:39:41.990
+!MESSAGE while parsing a block mapping
+ in 'reader', line 5, column 3:
+      version: 1.0.0
+      ^
+expected <block end>, but found Scalar
+ in 'reader', line 20, column 4:
+       Have you ever wished your pet wo ... 
+       ^
+
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:39:43.817
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.053 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:39:45.434
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.060 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:39:45.913
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.039 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:39:47.938
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.037 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:39:53.298
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.051 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:39:55.138
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.055 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:39:59.231
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.037 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:40:00.003
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.039 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:40:02.698
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.079 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn98616521662315605\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:40:06.221
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.081 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn5180524538977665396\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:40:15.229
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.067 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:40:16.834
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.056 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:40:20.039
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.036 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:40:20.861
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.039 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:40:22.955
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.065 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:40:26.911
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.037 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:40:32.634
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.054 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:40:35.303
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.044 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:40:38.741
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.033 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:40:43.519
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.037 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:40:46.123
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.037 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:40:48.242
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.033 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:40:50.626
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.041 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:40:51.478
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.035 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:40:56.646
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.042 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:40:58.958
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.067 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:41:00.555
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.044 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:41:19.781
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.036 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:41:24.592
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.032 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:41:27.468
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.036 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:41:29.532
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.031 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:41:31.551
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.040 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:41:32.359
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.037 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:41:33.993
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.067 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:41:43.004
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.057 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:41:44.709
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.059 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:41:49.504
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.037 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:41:51.726
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.044 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:41:52.741
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.036 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:41:55.235
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.031 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:41:59.189
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.043 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:42:13.537
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.031 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:42:14.374
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.035 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:42:17.155
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.051 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:42:20.029
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.042 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:42:28.167
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.046 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:42:31.884
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.036 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:42:43.093
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.035 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:42:50.023
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.068 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:42:53.267
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.054 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:43:01.834
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.042 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:43:03.457
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.041 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:43:04.369
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.039 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:43:09.355
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.062 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:43:26.205
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.034 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:43:37.110
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.053 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:43:40.508
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.035 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:43:42.434
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.033 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:43:44.238
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.051 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn7942492550335973723\My API Spec_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:43:49.520
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.184 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn264560862547969350\TaxBlaster API_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:43:59.576
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.111 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn5759520379932464580\TaxBlaster API_doc.html
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:44:04.086
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 0.115 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn8205119688333758738\TaxBlaster API_doc.html

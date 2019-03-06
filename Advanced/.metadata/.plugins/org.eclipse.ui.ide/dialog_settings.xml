@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="installedFeatures">
+		<item value="com.modelsolv.reprezen:1.6.16.10070"/>
+		<item value="org.eclipse.cvs:1.4.404.v20180330-0640"/>
+		<item value="org.eclipse.egit:4.9.2.201712150930-r"/>
+		<item value="org.eclipse.emf.common.ui:2.12.0.v20170609-0928"/>
+		<item value="org.eclipse.emf.common:2.13.0.v20170609-0707"/>
+		<item value="org.eclipse.emf.databinding:1.4.0.v20170609-0928"/>
+		<item value="org.eclipse.emf.ecore:2.13.0.v20170609-0707"/>
+		<item value="org.eclipse.emf.edit.ui:2.13.0.v20170609-0928"/>
+		<item value="org.eclipse.emf.edit:2.12.0.v20170609-0928"/>
+		<item value="org.eclipse.emf.query:1.11.0.201706061326"/>
+		<item value="org.eclipse.emf.transaction:1.11.0.201706061339"/>
+		<item value="org.eclipse.emf.validation:1.11.0.201706061352"/>
+		<item value="org.eclipse.emf.workspace:1.11.0.201706061339"/>
+		<item value="org.eclipse.epp.mpc:1.6.4.v20180214-1810"/>
+		<item value="org.eclipse.help:2.2.104.v20180330-0640"/>
+		<item value="org.eclipse.jdt:3.13.4.v20180330-0919"/>
+		<item value="org.eclipse.jgit:4.9.2.201712150930-r"/>
+		<item value="org.eclipse.m2e.feature:1.8.3.20180227-2137"/>
+		<item value="org.eclipse.m2e.logback.feature:1.8.3.20180227-2137"/>
+		<item value="org.eclipse.mylyn.commons.identity:1.16.0.v20180904-2231"/>
+		<item value="org.eclipse.mylyn.commons.notifications:1.16.0.v20180904-2231"/>
+		<item value="org.eclipse.mylyn.commons.repositories:1.16.0.v20180904-2231"/>
+		<item value="org.eclipse.mylyn.commons:3.24.2.v20180904-2231"/>
+		<item value="org.eclipse.mylyn.context_feature:3.20.2.v20160630-1640"/>
+		<item value="org.eclipse.mylyn.discovery:3.24.2.v20180904-2231"/>
+		<item value="org.eclipse.mylyn.github.feature:4.1.0.201509280440-r"/>
+		<item value="org.eclipse.mylyn.ide_feature:3.20.2.v20160630-1640"/>
+		<item value="org.eclipse.mylyn.java_feature:3.20.2.v20160630-1640"/>
+		<item value="org.eclipse.mylyn.monitor:3.24.2.v20180904-2231"/>
+		<item value="org.eclipse.mylyn.tasks.ide:3.20.2.v20160630-1642"/>
+		<item value="org.eclipse.mylyn.team_feature:3.20.2.v20160630-1640"/>
+		<item value="org.eclipse.mylyn_feature:3.20.2.v20160630-1858"/>
+		<item value="org.eclipse.pde:3.13.4.v20180330-0640"/>
+		<item value="org.eclipse.platform:4.7.3.v20180330-0640"/>
+		<item value="org.eclipse.rcp:4.7.3.v20180330-0640"/>
+		<item value="org.eclipse.sdk:4.7.3.v20180330-0919"/>
+		<item value="org.eclipse.userstorage:1.1.0.v20170526-1605"/>
+		<item value="org.eclipse.wst.xml_ui.feature:3.9.2.v201803221834"/>
+		<item value="org.eclipse.xtend.sdk:2.9.2.v201603040440"/>
+		<item value="org.eclipse.xtext.ui:2.9.2.v201603040440"/>
+		<item value="org.eclipse.xtext.xbase.lib:2.9.2.v201603040440"/>
+		<item value="org.eclipse.xtext.xbase:2.9.2.v201603040440"/>
+		<item value="org.sonatype.m2e.buildhelper.feature:0.15.0.201405280027"/>
+	</list>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\tedep\Dropbox (Ace Companies)\OpenAPI Essentials Workshop\Advanced"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.dialogs.FilteredResourcesSelectionDialog">
+		<item value="false" key="FilterByLocation"/>
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode/&gt;&#x0D;&#x0A;&lt;/History&gt;" key="History"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;workingSet workingSetName=&quot;&quot;/&gt;" key="WorkingSet"/>
+		<item value="false" key="ShowDerived"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="669" key="DIALOG_X_ORIGIN"/>
+			<item value="197" key="DIALOG_Y_ORIGIN"/>
+		</section>
+	</section>
+</section>

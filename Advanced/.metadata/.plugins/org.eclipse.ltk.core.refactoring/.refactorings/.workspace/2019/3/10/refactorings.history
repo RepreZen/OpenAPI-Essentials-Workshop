@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 6 resources" deleteContents="false" description="Delete 6 resources" element1="/1 - Schema Objects/pom.bak.xml" element2="/2 - External References/pom.bak.xml" element3="/3 - Form Data/pom.bak.xml" element4="/4 - Links and Callbacks/pom.bak.xml" element5="/5 - Security Schemes/pom.bak.xml" element6="/6 - Xml Example/pom.bak.xml" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="6" stamp="1551898079307"/>
+</session>

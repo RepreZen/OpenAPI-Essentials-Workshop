@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 6 resources" deleteContents="false" description="Delete 6 resources" element1="/2 - OpenAPI and Server Objects/pom.bak.xml" element2="/3 - Paths and Path Parameters/pom.bak.xml" element3="/4 - GET Operation and Responses/pom.bak.xml" element4="/5 - Query and Header Parameters/pom.bak.xml" element5="/6 - POST, PATCH, and PUT/pom.bak.xml" element6="/7 - Documentation/pom.bak.xml" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="6" stamp="1551897402273"/>
+</session>

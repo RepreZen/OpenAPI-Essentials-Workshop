@@ -1,0 +1,266 @@
+!SESSION 2019-03-06 13:44:59.145 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_172
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -pluginCustomization plugin_customization.ini -pluginCustomization plugin_customization.ini -pluginCustomization plugin_customization.ini
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -pluginCustomization plugin_customization.ini -pluginCustomization plugin_customization.ini -data C:\Users\tedep\Dropbox (Ace Companies)\OpenAPI Essentials Workshop\Advanced -pluginCustomization plugin_customization.ini
+
+!ENTRY org.eclipse.mylyn.tasks.core 4 0 2019-03-06 13:45:09.668
+!MESSAGE Unexpected error while loading repository template extensions
+!SUBENTRY 1 org.eclipse.mylyn.tasks.core 4 0 2019-03-06 13:45:09.668
+!MESSAGE Could not load repository template extension contributed by 'org.eclipse.mylyn.bugzilla.ide' with connectorKind 'bugzilla'
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-03-06 13:45:19.413
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\tedep'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:30.361
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:30.369
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:30.382
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:30.386
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:30.395
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:30.399
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:30.436
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:30.442
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:30.452
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:30.456
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:30.465
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:30.469
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:30.567
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0.v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0.v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:30.572
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0.v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0.v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:30.586
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:30.591
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:30.601
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:30.607
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:41.845
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:41.851
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:41.859
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:41.864
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:41.872
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:41.876
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:41.906
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:41.911
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:41.919
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:41.923
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:41.931
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:41.936
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:42.036
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0.v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0.v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:42.043
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0.v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0.v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:42.054
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:42.060
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:42.068
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:42.073
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY com.modelsolv.reprezen.generators.ide 1 0 2019-03-06 13:46:46.881
+!MESSAGE GenTemplate registry scanned in 6.158 seconds, discovered 217 GenTempaltes
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:46:50.623
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 1.625 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn2763643636787293789\TaxBlaster API_doc.html
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:51.262
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:51.266
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:51.275
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:51.279
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:51.286
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:51.291
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.common:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:51.321
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:51.325
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:51.333
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:51.337
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:51.345
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:51.349
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:51.437
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0.v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0.v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:51.441
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0.v20130911-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0.v20130911-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:51.449
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:51.453
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140117-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:51.464
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+
+!ENTRY org.apache.log4j 2 0 2019-03-06 13:46:51.470
+!MESSAGE org.eclipse.m2e.core.internal.embedder.EclipseLogger  - Failure to transfer org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from http://maven.reprezen.com/repository/releases was cached in the local repository, resolution will not be reattempted until the update interval of reprezen-repo-releases has elapsed or updates are forced. Original error: Could not transfer metadata org.eclipse.emf:org.eclipse.emf.ecore.xmi:2.10.0-v20140514-SNAPSHOT/maven-metadata.xml from/to reprezen-repo-releases (http://bogus.maven.reprezen.com/repository/releases): bogus.maven.reprezen.com
+
+!SESSION 2019-03-06 13:51:22.743 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_172
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -pluginCustomization plugin_customization.ini
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -pluginCustomization plugin_customization.ini
+
+!ENTRY org.eclipse.mylyn.tasks.core 4 0 2019-03-06 13:51:31.706
+!MESSAGE Unexpected error while loading repository template extensions
+!SUBENTRY 1 org.eclipse.mylyn.tasks.core 4 0 2019-03-06 13:51:31.706
+!MESSAGE Could not load repository template extension contributed by 'org.eclipse.mylyn.bugzilla.ide' with connectorKind 'bugzilla'
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-03-06 13:51:39.426
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\tedep'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.modelsolv.reprezen.gentemplates.common.ui 1 0 2019-03-06 13:51:46.734
+!MESSAGE Live view document for XOpenApi3DocGenTemplate generated in 4.029 secs, saved at C:\Users\tedep\AppData\Local\Temp\rzn8157026888926478542\TaxBlaster API_doc.html
+
+!ENTRY com.modelsolv.reprezen.generators.ide 1 0 2019-03-06 13:51:53.544
+!MESSAGE GenTemplate registry scanned in 11.743 seconds, discovered 217 GenTempaltes
