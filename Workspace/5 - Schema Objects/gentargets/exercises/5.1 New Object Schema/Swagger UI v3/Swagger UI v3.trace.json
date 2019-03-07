@@ -1,0 +1,164 @@
+{
+  "@id" : 1,
+  "genTemplateId" : "com.reprezen.genflow.openapi.swaggerui.v3.SwaggerUi3GenTemplate",
+  "traceItems" : [ {
+    "trace" : 1,
+    "id" : "1",
+    "type" : "file",
+    "outputRelativePath" : "generated\\TaxBlaster API_swagger-ui.html",
+    "sources" : [ {
+      "role" : "sourceData",
+      "sourceModel" : "_primary"
+    } ]
+  }, {
+    "trace" : 1,
+    "id" : "2",
+    "type" : "staticResource",
+    "outputRelativePath" : "generated\\assets\\oauth2-redirect.html",
+    "sources" : [ {
+      "role" : "sourceData",
+      "locator" : "com/reprezen/genflow/openapi/swaggerui/v3/3.18.2/assets/assets/oauth2-redirect.html",
+      "sourceModel" : "_resource"
+    } ]
+  }, {
+    "trace" : 1,
+    "id" : "3",
+    "type" : "staticResource",
+    "outputRelativePath" : "generated\\assets\\swagger-ui-standalone-preset.js",
+    "sources" : [ {
+      "role" : "sourceData",
+      "locator" : "com/reprezen/genflow/openapi/swaggerui/v3/3.18.2/assets/assets/swagger-ui-standalone-preset.js",
+      "sourceModel" : "_resource"
+    } ]
+  }, {
+    "trace" : 1,
+    "id" : "4",
+    "type" : "staticResource",
+    "outputRelativePath" : "generated\\assets\\favicon-32x32.png",
+    "sources" : [ {
+      "role" : "sourceData",
+      "locator" : "com/reprezen/genflow/openapi/swaggerui/v3/3.18.2/assets/assets/favicon-32x32.png",
+      "sourceModel" : "_resource"
+    } ]
+  }, {
+    "trace" : 1,
+    "id" : "5",
+    "type" : "staticResource",
+    "outputRelativePath" : "generated\\assets\\swagger-ui.css",
+    "sources" : [ {
+      "role" : "sourceData",
+      "locator" : "com/reprezen/genflow/openapi/swaggerui/v3/3.18.2/assets/assets/swagger-ui.css",
+      "sourceModel" : "_resource"
+    } ]
+  }, {
+    "trace" : 1,
+    "id" : "6",
+    "type" : "staticResource",
+    "outputRelativePath" : "generated\\assets\\swagger-ui.js",
+    "sources" : [ {
+      "role" : "sourceData",
+      "locator" : "com/reprezen/genflow/openapi/swaggerui/v3/3.18.2/assets/assets/swagger-ui.js",
+      "sourceModel" : "_resource"
+    } ]
+  }, {
+    "trace" : 1,
+    "id" : "7",
+    "type" : "staticResource",
+    "outputRelativePath" : "generated\\assets\\swagger-ui-standalone-preset.js.map",
+    "sources" : [ {
+      "role" : "sourceData",
+      "locator" : "com/reprezen/genflow/openapi/swaggerui/v3/3.18.2/assets/assets/swagger-ui-standalone-preset.js.map",
+      "sourceModel" : "_resource"
+    } ]
+  }, {
+    "trace" : 1,
+    "id" : "8",
+    "type" : "staticResource",
+    "outputRelativePath" : "generated\\assets\\swagger-ui-bundle.js",
+    "sources" : [ {
+      "role" : "sourceData",
+      "locator" : "com/reprezen/genflow/openapi/swaggerui/v3/3.18.2/assets/assets/swagger-ui-bundle.js",
+      "sourceModel" : "_resource"
+    } ]
+  }, {
+    "trace" : 1,
+    "id" : "9",
+    "type" : "staticResource",
+    "outputRelativePath" : "generated\\assets\\swagger-ui.css.map",
+    "sources" : [ {
+      "role" : "sourceData",
+      "locator" : "com/reprezen/genflow/openapi/swaggerui/v3/3.18.2/assets/assets/swagger-ui.css.map",
+      "sourceModel" : "_resource"
+    } ]
+  }, {
+    "trace" : 1,
+    "id" : "10",
+    "type" : "staticResource",
+    "outputRelativePath" : "generated\\assets\\swagger-ui-bundle.js.map",
+    "sources" : [ {
+      "role" : "sourceData",
+      "locator" : "com/reprezen/genflow/openapi/swaggerui/v3/3.18.2/assets/assets/swagger-ui-bundle.js.map",
+      "sourceModel" : "_resource"
+    } ]
+  }, {
+    "trace" : 1,
+    "id" : "11",
+    "type" : "staticResource",
+    "outputRelativePath" : "generated\\assets\\favicon-16x16.png",
+    "sources" : [ {
+      "role" : "sourceData",
+      "locator" : "com/reprezen/genflow/openapi/swaggerui/v3/3.18.2/assets/assets/favicon-16x16.png",
+      "sourceModel" : "_resource"
+    } ]
+  }, {
+    "trace" : 1,
+    "id" : "12",
+    "type" : "staticResource",
+    "outputRelativePath" : "generated\\assets\\swagger-ui.js.map",
+    "sources" : [ {
+      "role" : "sourceData",
+      "locator" : "com/reprezen/genflow/openapi/swaggerui/v3/3.18.2/assets/assets/swagger-ui.js.map",
+      "sourceModel" : "_resource"
+    } ]
+  }, {
+    "trace" : 1,
+    "id" : "13",
+    "type" : "staticResource",
+    "outputRelativePath" : "generated\\reprezen\\images\\logo.png",
+    "sources" : [ {
+      "role" : "sourceData",
+      "locator" : "com/reprezen/genflow/openapi/swaggerui/v3/reprezen/reprezen/images/logo.png",
+      "sourceModel" : "_resource"
+    } ]
+  }, {
+    "trace" : 1,
+    "id" : "14",
+    "type" : "staticResource",
+    "outputRelativePath" : "generated\\reprezen\\js\\jquery-3.2.1.min.js",
+    "sources" : [ {
+      "role" : "sourceData",
+      "locator" : "com/reprezen/genflow/openapi/swaggerui/v3/reprezen/reprezen/js/jquery-3.2.1.min.js",
+      "sourceModel" : "_resource"
+    } ]
+  }, {
+    "trace" : 1,
+    "id" : "15",
+    "type" : "staticResource",
+    "outputRelativePath" : "generated\\reprezen\\js\\bootstrap-3.3.7.min.js",
+    "sources" : [ {
+      "role" : "sourceData",
+      "locator" : "com/reprezen/genflow/openapi/swaggerui/v3/reprezen/reprezen/js/bootstrap-3.3.7.min.js",
+      "sourceModel" : "_resource"
+    } ]
+  }, {
+    "trace" : 1,
+    "id" : "16",
+    "type" : "staticResource",
+    "outputRelativePath" : "generated\\reprezen\\css\\mini-bootstrap.css",
+    "sources" : [ {
+      "role" : "sourceData",
+      "locator" : "com/reprezen/genflow/openapi/swaggerui/v3/reprezen/reprezen/css/mini-bootstrap.css",
+      "sourceModel" : "_resource"
+    } ]
+  } ]
+}

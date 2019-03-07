@@ -1,0 +1,29 @@
+---
+name: "XML Schema"
+genTemplateId: "com.reprezen.genflow.rapidml.xsd.XMLSchemaGenTemplate"
+relativeOutputDir: generated
+prerequisites: null
+primarySource: 
+  path: "../../../models/TaxBlaster.rapid"
+namedSources: null 
+# The parameters object contains variables that are processed directly by the GenTemplate.
+parameters: 
+  # One of ATTRIBUTE or ELEMENT, determining how single-valued primitive properties
+  # will be represented in generated types. Default is ATTRIBUTE.
+  valueForm: "ATTRIBUTE"
+  
+  # Name for item elements within lists for multivalued properties.
+  # This can be a fixed name, or can be a string containing '${property}'. In
+  # that case, the relevent property name will replace '${property}' in the
+  # specified value. The default is 'item'.
+  listItemElementName: "item"
+  
+  # Generated schemas will allow empty lists for optional multivalued properties.
+  # False (default) disallows this; a compliant document can omit an optional list, but if the
+  # list is present it must not be empty.
+  allowEmptyLists: false
+  
+  # Choose the method to be used to name types in the generated schema. Options are:
+  # * SIMPLE_NAME - (Default) Use the name of the associated resource, datatype, etc.
+  # * FULLY_QUALIFIED_NAME - Use the fully qualifiied name of the associated resource, datatype, etc.
+  typeNamingMethod: "SIMPLE_NAME"

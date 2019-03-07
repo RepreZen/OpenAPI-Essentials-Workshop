@@ -1,0 +1,215 @@
+{
+  "@id" : 1,
+  "genTemplateId" : "com.reprezen.genflow.openapi3.doc.XOpenApi3DocGenTemplate",
+  "traceItems" : [ {
+    "trace" : 1,
+    "id" : "1",
+    "type" : "file",
+    "outputRelativePath" : "generated\\TaxBlaster API_doc.html",
+    "sources" : [ {
+      "role" : "sourceData",
+      "locator" : "/",
+      "sourceModel" : "_primary"
+    } ]
+  }, {
+    "trace" : 1,
+    "id" : "2",
+    "type" : "staticResource",
+    "outputRelativePath" : "generated\\jquery\\jquery-1.10.2.min.js",
+    "sources" : [ {
+      "role" : "sourceData",
+      "locator" : "com/reprezen/genflow/openapi3/doc/js/jquery/jquery-1.10.2.min.js",
+      "sourceModel" : "_resource"
+    } ]
+  }, {
+    "trace" : 1,
+    "id" : "3",
+    "type" : "staticResource",
+    "outputRelativePath" : "generated\\bootstrap\\js\\transition.js",
+    "sources" : [ {
+      "role" : "sourceData",
+      "locator" : "com/reprezen/genflow/openapi3/doc/js/bootstrap/js/transition.js",
+      "sourceModel" : "_resource"
+    } ]
+  }, {
+    "trace" : 1,
+    "id" : "4",
+    "type" : "staticResource",
+    "outputRelativePath" : "generated\\bootstrap\\js\\npm.js",
+    "sources" : [ {
+      "role" : "sourceData",
+      "locator" : "com/reprezen/genflow/openapi3/doc/js/bootstrap/js/npm.js",
+      "sourceModel" : "_resource"
+    } ]
+  }, {
+    "trace" : 1,
+    "id" : "5",
+    "type" : "staticResource",
+    "outputRelativePath" : "generated\\bootstrap\\js\\bootstrap.min.js",
+    "sources" : [ {
+      "role" : "sourceData",
+      "locator" : "com/reprezen/genflow/openapi3/doc/js/bootstrap/js/bootstrap.min.js",
+      "sourceModel" : "_resource"
+    } ]
+  }, {
+    "trace" : 1,
+    "id" : "6",
+    "type" : "staticResource",
+    "outputRelativePath" : "generated\\bootstrap\\js\\reprezenTOCBuilder.js",
+    "sources" : [ {
+      "role" : "sourceData",
+      "locator" : "com/reprezen/genflow/openapi3/doc/js/bootstrap/js/reprezenTOCBuilder.js",
+      "sourceModel" : "_resource"
+    } ]
+  }, {
+    "trace" : 1,
+    "id" : "7",
+    "type" : "staticResource",
+    "outputRelativePath" : "generated\\bootstrap\\js\\bootstrap.js",
+    "sources" : [ {
+      "role" : "sourceData",
+      "locator" : "com/reprezen/genflow/openapi3/doc/js/bootstrap/js/bootstrap.js",
+      "sourceModel" : "_resource"
+    } ]
+  }, {
+    "trace" : 1,
+    "id" : "8",
+    "type" : "staticResource",
+    "outputRelativePath" : "generated\\bootstrap\\css\\bootstrap-theme.css",
+    "sources" : [ {
+      "role" : "sourceData",
+      "locator" : "com/reprezen/genflow/openapi3/doc/js/bootstrap/css/bootstrap-theme.css",
+      "sourceModel" : "_resource"
+    } ]
+  }, {
+    "trace" : 1,
+    "id" : "9",
+    "type" : "staticResource",
+    "outputRelativePath" : "generated\\bootstrap\\css\\bootstrap.min.css",
+    "sources" : [ {
+      "role" : "sourceData",
+      "locator" : "com/reprezen/genflow/openapi3/doc/js/bootstrap/css/bootstrap.min.css",
+      "sourceModel" : "_resource"
+    } ]
+  }, {
+    "trace" : 1,
+    "id" : "10",
+    "type" : "staticResource",
+    "outputRelativePath" : "generated\\bootstrap\\css\\bootstrap.css",
+    "sources" : [ {
+      "role" : "sourceData",
+      "locator" : "com/reprezen/genflow/openapi3/doc/js/bootstrap/css/bootstrap.css",
+      "sourceModel" : "_resource"
+    } ]
+  }, {
+    "trace" : 1,
+    "id" : "11",
+    "type" : "staticResource",
+    "outputRelativePath" : "generated\\bootstrap\\css\\bootstrap-theme.min.css",
+    "sources" : [ {
+      "role" : "sourceData",
+      "locator" : "com/reprezen/genflow/openapi3/doc/js/bootstrap/css/bootstrap-theme.min.css",
+      "sourceModel" : "_resource"
+    } ]
+  }, {
+    "trace" : 1,
+    "id" : "12",
+    "type" : "staticResource",
+    "outputRelativePath" : "generated\\bootstrap\\css\\navbar-fixed-top.css",
+    "sources" : [ {
+      "role" : "sourceData",
+      "locator" : "com/reprezen/genflow/openapi3/doc/js/bootstrap/css/navbar-fixed-top.css",
+      "sourceModel" : "_resource"
+    } ]
+  }, {
+    "trace" : 1,
+    "id" : "13",
+    "type" : "staticResource",
+    "outputRelativePath" : "generated\\bootstrap\\css\\bootstrap-reprezen.css",
+    "sources" : [ {
+      "role" : "sourceData",
+      "locator" : "com/reprezen/genflow/openapi3/doc/js/bootstrap/css/bootstrap-reprezen.css",
+      "sourceModel" : "_resource"
+    } ]
+  }, {
+    "trace" : 1,
+    "id" : "14",
+    "type" : "staticResource",
+    "outputRelativePath" : "generated\\bootstrap\\css\\docs.css",
+    "sources" : [ {
+      "role" : "sourceData",
+      "locator" : "com/reprezen/genflow/openapi3/doc/js/bootstrap/css/docs.css",
+      "sourceModel" : "_resource"
+    } ]
+  }, {
+    "trace" : 1,
+    "id" : "15",
+    "type" : "staticResource",
+    "outputRelativePath" : "generated\\bootstrap\\fonts\\glyphicons-halflings-regular.woff",
+    "sources" : [ {
+      "role" : "sourceData",
+      "locator" : "com/reprezen/genflow/openapi3/doc/js/bootstrap/fonts/glyphicons-halflings-regular.woff",
+      "sourceModel" : "_resource"
+    } ]
+  }, {
+    "trace" : 1,
+    "id" : "16",
+    "type" : "staticResource",
+    "outputRelativePath" : "generated\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf",
+    "sources" : [ {
+      "role" : "sourceData",
+      "locator" : "com/reprezen/genflow/openapi3/doc/js/bootstrap/fonts/glyphicons-halflings-regular.ttf",
+      "sourceModel" : "_resource"
+    } ]
+  }, {
+    "trace" : 1,
+    "id" : "17",
+    "type" : "staticResource",
+    "outputRelativePath" : "generated\\bootstrap\\fonts\\glyphicons-halflings-regular.svg",
+    "sources" : [ {
+      "role" : "sourceData",
+      "locator" : "com/reprezen/genflow/openapi3/doc/js/bootstrap/fonts/glyphicons-halflings-regular.svg",
+      "sourceModel" : "_resource"
+    } ]
+  }, {
+    "trace" : 1,
+    "id" : "18",
+    "type" : "staticResource",
+    "outputRelativePath" : "generated\\bootstrap\\fonts\\glyphicons-halflings-regular.eot",
+    "sources" : [ {
+      "role" : "sourceData",
+      "locator" : "com/reprezen/genflow/openapi3/doc/js/bootstrap/fonts/glyphicons-halflings-regular.eot",
+      "sourceModel" : "_resource"
+    } ]
+  }, {
+    "trace" : 1,
+    "id" : "19",
+    "type" : "staticResource",
+    "outputRelativePath" : "generated\\bootstrap\\fonts\\glyphicons-halflings-regular.woff2",
+    "sources" : [ {
+      "role" : "sourceData",
+      "locator" : "com/reprezen/genflow/openapi3/doc/js/bootstrap/fonts/glyphicons-halflings-regular.woff2",
+      "sourceModel" : "_resource"
+    } ]
+  }, {
+    "trace" : 1,
+    "id" : "20",
+    "type" : "staticResource",
+    "outputRelativePath" : "generated\\images\\logo.png",
+    "sources" : [ {
+      "role" : "sourceData",
+      "locator" : "com/reprezen/genflow/openapi3/doc/images/images/logo.png",
+      "sourceModel" : "_resource"
+    } ]
+  }, {
+    "trace" : 1,
+    "id" : "21",
+    "type" : "staticResource",
+    "outputRelativePath" : "generated\\images\\ajax-loader.gif",
+    "sources" : [ {
+      "role" : "sourceData",
+      "locator" : "com/reprezen/genflow/openapi3/doc/images/images/ajax-loader.gif",
+      "sourceModel" : "_resource"
+    } ]
+  } ]
+}

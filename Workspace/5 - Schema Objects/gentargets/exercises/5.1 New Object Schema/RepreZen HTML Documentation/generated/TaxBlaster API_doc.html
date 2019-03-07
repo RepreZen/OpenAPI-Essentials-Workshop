@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<html lang="en">
+    <!-- Preview: false -->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <link rel="shortcut icon" href="docs-assets/ico/favicon.png">
+    
+        <title>TaxBlaster API Documentation</title>
+    
+        <!-- Bootstrap core CSS -->
+        <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
+        <link href="bootstrap/css/bootstrap-reprezen.css" rel="stylesheet">
+    
+        <!-- Custom styles for this template -->
+        <link href="bootstrap/css/navbar-fixed-top.css" rel="stylesheet">
+    
+        <!-- Just for debugging purposes. Don't actually copy this line! -->
+        <!--[if lt IE 9]><script src="docs-assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+        <![endif]-->
+        <style>
+        .tooltip-inner {
+            min-width: 100px;
+            max-width: 100%;
+        }
+        </style>
+    </head>
+    <body data-spy="scroll" data-target="#toc">            
+       <!-- Fixed navbar -->
+       <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+          <div class="container">
+            <div class="navbar-collapse collapse">
+              <ul class="nav navbar-nav navbar-right">
+                <li><a href="http://reprezen.com" target="_blank">Created with <img class="logo" src="images/logo.png"></a></li>
+              </ul>
+            </div><!--/.nav-collapse -->
+          </div>
+       </div>
+          <div class="container">
+           <div class="row">
+               <div class="col-md-3">
+                 <div id="toc" class="reprezen-sidebar hidden-print affix">
+                 </div>
+               </div>
+           
+               <div class="col-md-9">
+                   <a class="anchor" id="model-spec"></a>
+                   <div class="page-header">
+                       <h1>OpenApi3 Specification</h1>
+                   </div>
+    
+                    <a class="anchor" id="_00001"></a>
+                    <div class="panel panel-primary">
+                      <div class="panel-heading">
+                        <h3 class="panel-title">TaxBlaster API </h3>
+                      </div>
+                      <div class="panel-body restful-interface">
+                        <div class="markdown"><h1>Exercise: New Object Schema</h1>
+                        <p>In this exercise, we&rsquo;ll create a new object-typed schema.<br/>The new <code>/tax_payment/{id}</code> path item has a GET method with a 200 response. The schema of the 200 response body only specifies that the value must be an object.</p>
+                        <p>Add the necessary elements to the Schema Object to make it validate a message payload like this:</p>
+                        <pre><code>{
+                          &quot;paymentID&quot;: &quot;P12347&quot;,
+                          &quot;date&quot;: &quot;2018-04-10&quot;,
+                          &quot;amount&quot;: 2231.89,
+                          &quot;currency&quot;: &quot;USD&quot;
+                        }    
+                        </code></pre></div>
+                        <table class="table">
+                            <tr><th>Version</th><td>1.0.0</td></tr>
+                            <tr><th>Contact</th><td> </td></tr>
+                            <tr><th>Terms of Service</th><td><div class="markdown"></div></td></tr>
+                            <tr><th>License</th><td></td></tr>
+                        </table>
+                      </div>
+                    </div>
+                    <a class="anchor toc-entry" id="model-paths" data-toc-level="0" data-toc-text="Paths"></a>
+                    <div class="page-header">
+                        <h1>Path Specifications</h1>
+                    </div>
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">Path Specifications</h3>
+                        </div>
+                        <div class="panel-body">
+                            <a class="anchor toc-entry" id="_paths__1tax_filings" data-toc-level="1" data-toc-text="/tax_filings"></a>
+                            <div class="panel panel-default">
+                               <div class="panel-heading">
+                            		<h4 class="panel-title">
+                            		          Path: /tax_filings
+                            		</h4>
+                            		  </div>
+                            		  <div class="panel-body">
+                            		  <div class="markdown"></div>
+                            		 <a class="anchor toc-entry" id="_paths__1tax_filings_get" data-toc-level="2" data-toc-text="get"></a>
+                            		 <span class="label label-primary resource-method">get</span>
+                            		 <code></code>
+                            		 <ul class="list-group">
+                            		     <div class="markdown"><p>Retrieve all available tax filings</p></div>
+                            		     <li class="list-group-item">
+                            		         <h4>Parameters</h4>
+                            		         
+                            		         <table class="table table-condensed">
+                            		             <tr><th>Name</th><th>In</th><th>Default</th><th>Type</th><th>Description</th></tr>
+                            		             <tr><td><code><strong>status</strong></code></td><td>query</td><td></td><td><code>string<a href="#_00002" data-toggle="collapse">
+                            		                 <span id="_00002-controller" data-toggle="tooltip" 
+                            		                     data-hidden-title="View Property Details" data-visible-title="Hide Property Details" 
+                            		                     class="glyphicon glyphicon-collapse-down">
+                            		                 </span>
+                            		             </a>
+                            		             </code></td><td><div class="markdown"><p>Return only tax filings with the specified tax filing status.</p></div></td></tr>
+                            		             <tr><td colspan="5" style="border-top:0px"><div id="_00002" class="well well-sm collapse" data-controller="#_00002-controller" style="margin:0">
+                            		                 <table class="table" style="margin:0"><tr><th>Allowed Values</th><td>Draft<br>Submitted<br>Accepted<br>Audit_Pending</td></tr>
+                            		                 </table>
+                            		             </div>
+                            		             </td></tr>
+                            		         </table>
+                            		     </li>
+                            		     <li class="list-group-item">
+                            		     	<h4><strong>Response</strong> <span class="label label-success">200</span></h4>
+                            		     	<div class="markdown"><p>OK</p></div>
+                            		     	<span class="glyphicon glyphicon-chevron-right"></span> <span class="label label-default">application/json</span> 
+                            		     	TaxFilings
+                            		     	<code>TaxFiling[*]</code>
+                            		     	<table class="table table-condensed">
+                            		     	    <tr><th>Name</th><th>Type</th><th>Description</th></tr>
+                            		     	    <tr><td><code>&nbsp;&nbsp;<strong>filingID</strong></code></td><td><code>string</code></td><td></td></tr>
+                            		     	    <tr><td><code>&nbsp;&nbsp;<em>taxpayerID</em></code></td><td><code>string</code></td><td></td></tr>
+                            		     	    <tr><td><code>&nbsp;&nbsp;<em>jurisdiction</em></code></td><td><code>string</code></td><td></td></tr>
+                            		     	    <tr><td><code>&nbsp;&nbsp;<em>fileDate</em></code></td><td><code>string<a href="#_00008" data-toggle="collapse">
+                            		     	        <span id="_00008-controller" data-toggle="tooltip" 
+                            		     	            data-hidden-title="View Property Details" data-visible-title="Hide Property Details" 
+                            		     	            class="glyphicon glyphicon-collapse-down">
+                            		     	        </span>
+                            		     	    </a>
+                            		     	    </code></td><td></td></tr>
+                            		     	    <tr><td colspan="3" style="border-top:0px"><div id="_00008" class="well well-sm collapse" data-controller="#_00008-controller" style="margin:0">
+                            		     	        <table class="table" style="margin:0"><tr><th>Format</th><td>date</td></tr>
+                            		     	        </table>
+                            		     	    </div>
+                            		     	    </td></tr>
+                            		     	    <tr><td><code>&nbsp;&nbsp;<em>isJointFiling</em></code></td><td><code>boolean</code></td><td></td></tr>
+                            		     	    <tr><td><code>&nbsp;&nbsp;<em>filingStatus</em></code></td><td><code>TaxFilingStatus<a href="#_00010" data-toggle="collapse">
+                            		     	        <span id="_00010-controller" data-toggle="tooltip" 
+                            		     	            data-hidden-title="View Property Details" data-visible-title="Hide Property Details" 
+                            		     	            class="glyphicon glyphicon-collapse-down">
+                            		     	        </span>
+                            		     	    </a>
+                            		     	    </code></td><td></td></tr>
+                            		     	    <tr><td colspan="3" style="border-top:0px"><div id="_00010" class="well well-sm collapse" data-controller="#_00010-controller" style="margin:0">
+                            		     	        <table class="table" style="margin:0"><tr><th>Allowed Values</th><td>Draft<br>Submitted<br>Accepted<br>Audit_Pending</td></tr>
+                            		     	        </table>
+                            		     	    </div>
+                            		     	    </td></tr>
+                            		     	</table>
+                            		     	<br/>
+                            		     </li>
+                            		     <li class="list-group-item">
+                            		     	<h4><strong>Response</strong> <span class="label label-default">default</span></h4>
+                            		     	<div class="markdown"><p>Unexpected error in processing the request.</p></div>
+                            		     	<span class="glyphicon glyphicon-chevron-right"></span> <span class="label label-default">application/json</span> 
+                            		     	ErrorResponse
+                            		     	<table class="table table-condensed">
+                            		     	    <tr><th>Name</th><th>Type</th><th>Description</th></tr>
+                            		     	    <tr><td><code>&nbsp;&nbsp;<em>errorMessage</em></code></td><td><code>string</code></td><td></td></tr>
+                            		     	    <tr><td><code>&nbsp;&nbsp;<em>stackTrace</em></code></td><td><code>string</code></td><td></td></tr>
+                            		     	</table>
+                            		     	<br/>
+                            		     </li>
+                            		 </ul>
+                            		 </div>
+                            </div>
+                            <a class="anchor toc-entry" id="_paths__1tax_filings_1_id_" data-toc-level="1" data-toc-text="/tax_filings/{id}"></a>
+                            <div class="panel panel-default">
+                               <div class="panel-heading">
+                            		<h4 class="panel-title">
+                            		          Path: /tax_filings/{id}
+                            		</h4>
+                            		  </div>
+                            		  <div class="panel-body">
+                            		  <div class="markdown"></div>
+                            		 <a class="anchor toc-entry" id="_paths__1tax_filings_1_id__get" data-toc-level="2" data-toc-text="get"></a>
+                            		 <span class="label label-primary resource-method">get</span>
+                            		 <code></code>
+                            		 <ul class="list-group">
+                            		     <div class="markdown"><p>Retrieve an individual tax filing</p></div>
+                            		     <li class="list-group-item">
+                            		     	<h4><strong>Response</strong> <span class="label label-success">200</span></h4>
+                            		     	<div class="markdown"><p>OK</p></div>
+                            		     	<span class="glyphicon glyphicon-chevron-right"></span> <span class="label label-default">application/json</span> 
+                            		     	TaxFiling
+                            		     	<table class="table table-condensed">
+                            		     	    <tr><th>Name</th><th>Type</th><th>Description</th></tr>
+                            		     	    <tr><td><code>&nbsp;&nbsp;<strong>filingID</strong></code></td><td><code>string</code></td><td></td></tr>
+                            		     	    <tr><td><code>&nbsp;&nbsp;<em>taxpayerID</em></code></td><td><code>string</code></td><td></td></tr>
+                            		     	    <tr><td><code>&nbsp;&nbsp;<em>jurisdiction</em></code></td><td><code>string</code></td><td></td></tr>
+                            		     	    <tr><td><code>&nbsp;&nbsp;<em>fileDate</em></code></td><td><code>string<a href="#_00018" data-toggle="collapse">
+                            		     	        <span id="_00018-controller" data-toggle="tooltip" 
+                            		     	            data-hidden-title="View Property Details" data-visible-title="Hide Property Details" 
+                            		     	            class="glyphicon glyphicon-collapse-down">
+                            		     	        </span>
+                            		     	    </a>
+                            		     	    </code></td><td></td></tr>
+                            		     	    <tr><td colspan="3" style="border-top:0px"><div id="_00018" class="well well-sm collapse" data-controller="#_00018-controller" style="margin:0">
+                            		     	        <table class="table" style="margin:0"><tr><th>Format</th><td>date</td></tr>
+                            		     	        </table>
+                            		     	    </div>
+                            		     	    </td></tr>
+                            		     	    <tr><td><code>&nbsp;&nbsp;<em>isJointFiling</em></code></td><td><code>boolean</code></td><td></td></tr>
+                            		     	    <tr><td><code>&nbsp;&nbsp;<em>filingStatus</em></code></td><td><code>TaxFilingStatus<a href="#_00020" data-toggle="collapse">
+                            		     	        <span id="_00020-controller" data-toggle="tooltip" 
+                            		     	            data-hidden-title="View Property Details" data-visible-title="Hide Property Details" 
+                            		     	            class="glyphicon glyphicon-collapse-down">
+                            		     	        </span>
+                            		     	    </a>
+                            		     	    </code></td><td></td></tr>
+                            		     	    <tr><td colspan="3" style="border-top:0px"><div id="_00020" class="well well-sm collapse" data-controller="#_00020-controller" style="margin:0">
+                            		     	        <table class="table" style="margin:0"><tr><th>Allowed Values</th><td>Draft<br>Submitted<br>Accepted<br>Audit_Pending</td></tr>
+                            		     	        </table>
+                            		     	    </div>
+                            		     	    </td></tr>
+                            		     	</table>
+                            		     	<br/>
+                            		     </li>
+                            		 </ul>
+                            		 </div>
+                            </div>
+                            <a class="anchor toc-entry" id="_paths__1tax_payment_1_id_" data-toc-level="1" data-toc-text="/tax_payment/{id}"></a>
+                            <div class="panel panel-default">
+                               <div class="panel-heading">
+                            		<h4 class="panel-title">
+                            		          Path: /tax_payment/{id}
+                            		</h4>
+                            		  </div>
+                            		  <div class="panel-body">
+                            		  <div class="markdown"></div>
+                            		 <a class="anchor toc-entry" id="_paths__1tax_payment_1_id__get" data-toc-level="2" data-toc-text="get"></a>
+                            		 <span class="label label-primary resource-method">get</span>
+                            		 <code></code>
+                            		 <ul class="list-group">
+                            		     <div class="markdown"><p>Retrieve a single tax payment.</p></div>
+                            		     <li class="list-group-item">
+                            		     	<h4><strong>Response</strong> <span class="label label-success">200</span></h4>
+                            		     	<div class="markdown"><p>OK</p></div>
+                            		     	<span class="glyphicon glyphicon-chevron-right"></span> <span class="label label-default">application/json</span> 
+                            		     	<table class="table table-condensed">
+                            		     	    <tr><th>Name</th><th>Type</th><th>Description</th></tr>
+                            		     	</table>
+                            		     	<br/>
+                            		     </li>
+                            		 </ul>
+                            		 </div>
+                            </div>
+                            <a class="anchor toc-entry" id="_paths__1taxpayers" data-toc-level="1" data-toc-text="/taxpayers"></a>
+                            <div class="panel panel-default">
+                               <div class="panel-heading">
+                            		<h4 class="panel-title">
+                            		          Path: /taxpayers
+                            		</h4>
+                            		  </div>
+                            		  <div class="panel-body">
+                            		  <div class="markdown"></div>
+                            		 <a class="anchor toc-entry" id="_paths__1taxpayers_get" data-toc-level="2" data-toc-text="get"></a>
+                            		 <span class="label label-primary resource-method">get</span>
+                            		 <code></code>
+                            		 <ul class="list-group">
+                            		     <div class="markdown"><p>Retrieve the entire list of taxpayers.</p></div>
+                            		     <li class="list-group-item">
+                            		         <h4>Parameters</h4>
+                            		         
+                            		         <table class="table table-condensed">
+                            		             <tr><th>Name</th><th>In</th><th>Default</th><th>Type</th><th>Description</th></tr>
+                            		             <tr><td><code><em>minTaxDue</em></code></td><td>query</td><td></td><td><code>number</code></td><td><div class="markdown"><p>Return only taxpayers with taxDue &gt;= the specified value.</p></div></td></tr>
+                            		         </table>
+                            		     </li>
+                            		     <li class="list-group-item">
+                            		     	<h4><strong>Response</strong> <span class="label label-success">200</span></h4>
+                            		     	<div class="markdown"><p>OK</p></div>
+                            		     	<span class="glyphicon glyphicon-chevron-right"></span> <span class="label label-default">application/json</span> 
+                            		     	Taxpayers
+                            		     	<code>Taxpayer[*]</code>
+                            		     	<table class="table table-condensed">
+                            		     	    <tr><th>Name</th><th>Type</th><th>Description</th></tr>
+                            		     	    <tr><td><code>&nbsp;&nbsp;<strong>taxpayerID</strong></code></td><td><code>string</code></td><td></td></tr>
+                            		     	    <tr><td><code>&nbsp;&nbsp;<em>firstName</em></code></td><td><code>string</code></td><td></td></tr>
+                            		     	    <tr><td><code>&nbsp;&nbsp;<em>lastName</em></code></td><td><code>string</code></td><td></td></tr>
+                            		     	    <tr><td><code>&nbsp;&nbsp;<em>maritalStatus</em></code></td><td><code>boolean</code></td><td></td></tr>
+                            		     	    <tr><td><code>&nbsp;&nbsp;<em>taxDue</em></code></td><td><code>number</code></td><td></td></tr>
+                            		     	</table>
+                            		     	<br/>
+                            		     </li>
+                            		     <li class="list-group-item">
+                            		     	<h4><strong>Response</strong> <span class="label label-default">default</span></h4>
+                            		     	<div class="markdown"><p>Unexpected error in processing the request.</p></div>
+                            		     	<span class="glyphicon glyphicon-chevron-right"></span> <span class="label label-default">application/json</span> 
+                            		     	ErrorResponse
+                            		     	<table class="table table-condensed">
+                            		     	    <tr><th>Name</th><th>Type</th><th>Description</th></tr>
+                            		     	    <tr><td><code>&nbsp;&nbsp;<em>errorMessage</em></code></td><td><code>string</code></td><td></td></tr>
+                            		     	    <tr><td><code>&nbsp;&nbsp;<em>stackTrace</em></code></td><td><code>string</code></td><td></td></tr>
+                            		     	</table>
+                            		     	<br/>
+                            		     </li>
+                            		 </ul>
+                            		 </div>
+                            </div>
+                            <a class="anchor toc-entry" id="_paths__1taxpayers_1_id_" data-toc-level="1" data-toc-text="/taxpayers/{id}"></a>
+                            <div class="panel panel-default">
+                               <div class="panel-heading">
+                            		<h4 class="panel-title">
+                            		          Path: /taxpayers/{id}
+                            		</h4>
+                            		  </div>
+                            		  <div class="panel-body">
+                            		  <div class="markdown"></div>
+                            		 <a class="anchor toc-entry" id="_paths__1taxpayers_1_id__get" data-toc-level="2" data-toc-text="get"></a>
+                            		 <span class="label label-primary resource-method">get</span>
+                            		 <code></code>
+                            		 <ul class="list-group">
+                            		     <div class="markdown"><p>Retrieve an individual taxpayer.</p></div>
+                            		     <li class="list-group-item">
+                            		     	<h4><strong>Response</strong> <span class="label label-success">200</span></h4>
+                            		     	<div class="markdown"><p>OK</p></div>
+                            		     	<span class="glyphicon glyphicon-chevron-right"></span> <span class="label label-default">application/json</span> 
+                            		     	Taxpayer
+                            		     	<table class="table table-condensed">
+                            		     	    <tr><th>Name</th><th>Type</th><th>Description</th></tr>
+                            		     	    <tr><td><code>&nbsp;&nbsp;<strong>taxpayerID</strong></code></td><td><code>string</code></td><td></td></tr>
+                            		     	    <tr><td><code>&nbsp;&nbsp;<em>firstName</em></code></td><td><code>string</code></td><td></td></tr>
+                            		     	    <tr><td><code>&nbsp;&nbsp;<em>lastName</em></code></td><td><code>string</code></td><td></td></tr>
+                            		     	    <tr><td><code>&nbsp;&nbsp;<em>maritalStatus</em></code></td><td><code>boolean</code></td><td></td></tr>
+                            		     	    <tr><td><code>&nbsp;&nbsp;<em>taxDue</em></code></td><td><code>number</code></td><td></td></tr>
+                            		     	</table>
+                            		     	<br/>
+                            		     </li>
+                            		     <li class="list-group-item">
+                            		     	<h4><strong>Response</strong> <span class="label label-default">default</span></h4>
+                            		     	<div class="markdown"><p>Unexpected error in processing the request.</p></div>
+                            		     	<span class="glyphicon glyphicon-chevron-right"></span> <span class="label label-default">application/json</span> 
+                            		     	ErrorResponse
+                            		     	<table class="table table-condensed">
+                            		     	    <tr><th>Name</th><th>Type</th><th>Description</th></tr>
+                            		     	    <tr><td><code>&nbsp;&nbsp;<em>errorMessage</em></code></td><td><code>string</code></td><td></td></tr>
+                            		     	    <tr><td><code>&nbsp;&nbsp;<em>stackTrace</em></code></td><td><code>string</code></td><td></td></tr>
+                            		     	</table>
+                            		     	<br/>
+                            		     </li>
+                            		 </ul>
+                            		 </div>
+                            </div>
+                        </div>
+                    </div>
+                    <a class="anchor toc-entry" id="model-definitions" data-toc-level="0" data-toc-text="Schema Definitions"></a>
+                    <div class="page-header">
+                        <h1>Schema Definitions</h1>
+                    </div>
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">Schema Definitions</h3>
+                        </div>
+                        <div class="panel-body">
+                            <a class="anchor toc-entry" id="_components_schemas_ErrorResponse" data-toc-level=1 data-toc-text="ErrorResponse"></a>
+                            <div class="panel panel-default">
+                                <div class="panel-heading">
+                                    <h4 class="panel-title">ErrorResponse</h4>
+                                </div>
+                                <div class="panel-body">
+                                    <div class="markdown"><p>An error string returned from a bad response.</p></div>
+                                    <table class="table table-condensed">
+                                        <tr><th>Name</th><th>Type</th><th>Description</th></tr>
+                                        <tr><td><code>&nbsp;&nbsp;<em>errorMessage</em></code></td><td><code>string</code></td><td></td></tr>
+                                        <tr><td><code>&nbsp;&nbsp;<em>stackTrace</em></code></td><td><code>string</code></td><td></td></tr>
+                                    </table>
+                                </div>
+                            </div>
+                            <a class="anchor toc-entry" id="_components_schemas_TaxFiling" data-toc-level=1 data-toc-text="TaxFiling"></a>
+                            <div class="panel panel-default">
+                                <div class="panel-heading">
+                                    <h4 class="panel-title">TaxFiling</h4>
+                                </div>
+                                <div class="panel-body">
+                                    <div class="markdown"></div>
+                                    <table class="table table-condensed">
+                                        <tr><th>Name</th><th>Type</th><th>Description</th></tr>
+                                        <tr><td><code>&nbsp;&nbsp;<strong>filingID</strong></code></td><td><code>string</code></td><td></td></tr>
+                                        <tr><td><code>&nbsp;&nbsp;<em>taxpayerID</em></code></td><td><code>string</code></td><td></td></tr>
+                                        <tr><td><code>&nbsp;&nbsp;<em>jurisdiction</em></code></td><td><code>string</code></td><td></td></tr>
+                                        <tr><td><code>&nbsp;&nbsp;<em>fileDate</em></code></td><td><code>string<a href="#_00049" data-toggle="collapse">
+                                            <span id="_00049-controller" data-toggle="tooltip" 
+                                                data-hidden-title="View Property Details" data-visible-title="Hide Property Details" 
+                                                class="glyphicon glyphicon-collapse-down">
+                                            </span>
+                                        </a>
+                                        </code></td><td></td></tr>
+                                        <tr><td colspan="3" style="border-top:0px"><div id="_00049" class="well well-sm collapse" data-controller="#_00049-controller" style="margin:0">
+                                            <table class="table" style="margin:0"><tr><th>Format</th><td>date</td></tr>
+                                            </table>
+                                        </div>
+                                        </td></tr>
+                                        <tr><td><code>&nbsp;&nbsp;<em>isJointFiling</em></code></td><td><code>boolean</code></td><td></td></tr>
+                                        <tr><td><code>&nbsp;&nbsp;<em>filingStatus</em></code></td><td><code>TaxFilingStatus<a href="#_00051" data-toggle="collapse">
+                                            <span id="_00051-controller" data-toggle="tooltip" 
+                                                data-hidden-title="View Property Details" data-visible-title="Hide Property Details" 
+                                                class="glyphicon glyphicon-collapse-down">
+                                            </span>
+                                        </a>
+                                        </code></td><td></td></tr>
+                                        <tr><td colspan="3" style="border-top:0px"><div id="_00051" class="well well-sm collapse" data-controller="#_00051-controller" style="margin:0">
+                                            <table class="table" style="margin:0"><tr><th>Allowed Values</th><td>Draft<br>Submitted<br>Accepted<br>Audit_Pending</td></tr>
+                                            </table>
+                                        </div>
+                                        </td></tr>
+                                    </table>
+                                </div>
+                            </div>
+                            <a class="anchor toc-entry" id="_components_schemas_TaxFilings" data-toc-level=1 data-toc-text="TaxFilings"></a>
+                            <div class="panel panel-default">
+                                <div class="panel-heading">
+                                    <h4 class="panel-title">TaxFilings</h4>
+                                </div>
+                                <div class="panel-body">
+                                    <div class="markdown"></div>
+                                    <code>TaxFiling[*]</code>
+                                    <table class="table table-condensed">
+                                        <tr><th>Name</th><th>Type</th><th>Description</th></tr>
+                                        <tr><td><code>&nbsp;&nbsp;<strong>filingID</strong></code></td><td><code>string</code></td><td></td></tr>
+                                        <tr><td><code>&nbsp;&nbsp;<em>taxpayerID</em></code></td><td><code>string</code></td><td></td></tr>
+                                        <tr><td><code>&nbsp;&nbsp;<em>jurisdiction</em></code></td><td><code>string</code></td><td></td></tr>
+                                        <tr><td><code>&nbsp;&nbsp;<em>fileDate</em></code></td><td><code>string<a href="#_00057" data-toggle="collapse">
+                                            <span id="_00057-controller" data-toggle="tooltip" 
+                                                data-hidden-title="View Property Details" data-visible-title="Hide Property Details" 
+                                                class="glyphicon glyphicon-collapse-down">
+                                            </span>
+                                        </a>
+                                        </code></td><td></td></tr>
+                                        <tr><td colspan="3" style="border-top:0px"><div id="_00057" class="well well-sm collapse" data-controller="#_00057-controller" style="margin:0">
+                                            <table class="table" style="margin:0"><tr><th>Format</th><td>date</td></tr>
+                                            </table>
+                                        </div>
+                                        </td></tr>
+                                        <tr><td><code>&nbsp;&nbsp;<em>isJointFiling</em></code></td><td><code>boolean</code></td><td></td></tr>
+                                        <tr><td><code>&nbsp;&nbsp;<em>filingStatus</em></code></td><td><code>TaxFilingStatus<a href="#_00059" data-toggle="collapse">
+                                            <span id="_00059-controller" data-toggle="tooltip" 
+                                                data-hidden-title="View Property Details" data-visible-title="Hide Property Details" 
+                                                class="glyphicon glyphicon-collapse-down">
+                                            </span>
+                                        </a>
+                                        </code></td><td></td></tr>
+                                        <tr><td colspan="3" style="border-top:0px"><div id="_00059" class="well well-sm collapse" data-controller="#_00059-controller" style="margin:0">
+                                            <table class="table" style="margin:0"><tr><th>Allowed Values</th><td>Draft<br>Submitted<br>Accepted<br>Audit_Pending</td></tr>
+                                            </table>
+                                        </div>
+                                        </td></tr>
+                                    </table>
+                                </div>
+                            </div>
+                            <a class="anchor toc-entry" id="_components_schemas_TaxFilingStatus" data-toc-level=1 data-toc-text="TaxFilingStatus"></a>
+                            <div class="panel panel-default">
+                                <div class="panel-heading">
+                                    <h4 class="panel-title">TaxFilingStatus</h4>
+                                </div>
+                                <div class="panel-body">
+                                    <div class="markdown"></div>
+                                    <code>string</code><a href="#_00060" data-toggle="collapse">
+                                        <span id="_00060-controller" data-toggle="tooltip" 
+                                            data-hidden-title="View Property Details" data-visible-title="Hide Property Details" 
+                                            class="glyphicon glyphicon-collapse-down">
+                                        </span>
+                                    </a>
+                                    <table class="table table-condensed" style="margin:0"><tr><td style="border-top: 0px"><div id="_00060" class="well well-sm collapse" data-controller="#_00060-controller" style="margin:0">
+                                        <table class="table" style="margin:0"><tr><th>Allowed Values</th><td>Draft<br>Submitted<br>Accepted<br>Audit_Pending</td></tr>
+                                        </table>
+                                    </div>
+                                    </td></tr></table>
+                                </div>
+                            </div>
+                            <a class="anchor toc-entry" id="_components_schemas_Taxpayer" data-toc-level=1 data-toc-text="Taxpayer"></a>
+                            <div class="panel panel-default">
+                                <div class="panel-heading">
+                                    <h4 class="panel-title">Taxpayer</h4>
+                                </div>
+                                <div class="panel-body">
+                                    <div class="markdown"></div>
+                                    <table class="table table-condensed">
+                                        <tr><th>Name</th><th>Type</th><th>Description</th></tr>
+                                        <tr><td><code>&nbsp;&nbsp;<strong>taxpayerID</strong></code></td><td><code>string</code></td><td></td></tr>
+                                        <tr><td><code>&nbsp;&nbsp;<em>firstName</em></code></td><td><code>string</code></td><td></td></tr>
+                                        <tr><td><code>&nbsp;&nbsp;<em>lastName</em></code></td><td><code>string</code></td><td></td></tr>
+                                        <tr><td><code>&nbsp;&nbsp;<em>maritalStatus</em></code></td><td><code>boolean</code></td><td></td></tr>
+                                        <tr><td><code>&nbsp;&nbsp;<em>taxDue</em></code></td><td><code>number</code></td><td></td></tr>
+                                    </table>
+                                </div>
+                            </div>
+                            <a class="anchor toc-entry" id="_components_schemas_Taxpayers" data-toc-level=1 data-toc-text="Taxpayers"></a>
+                            <div class="panel panel-default">
+                                <div class="panel-heading">
+                                    <h4 class="panel-title">Taxpayers</h4>
+                                </div>
+                                <div class="panel-body">
+                                    <div class="markdown"></div>
+                                    <code>Taxpayer[*]</code>
+                                    <table class="table table-condensed">
+                                        <tr><th>Name</th><th>Type</th><th>Description</th></tr>
+                                        <tr><td><code>&nbsp;&nbsp;<strong>taxpayerID</strong></code></td><td><code>string</code></td><td></td></tr>
+                                        <tr><td><code>&nbsp;&nbsp;<em>firstName</em></code></td><td><code>string</code></td><td></td></tr>
+                                        <tr><td><code>&nbsp;&nbsp;<em>lastName</em></code></td><td><code>string</code></td><td></td></tr>
+                                        <tr><td><code>&nbsp;&nbsp;<em>maritalStatus</em></code></td><td><code>boolean</code></td><td></td></tr>
+                                        <tr><td><code>&nbsp;&nbsp;<em>taxDue</em></code></td><td><code>number</code></td><td></td></tr>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+    </div> <!-- /col-md-9 -->
+    </div>  <!-- /row -->
+    </div> <!-- /container -->
+    
+        <!-- Bootstrap core JavaScript
+        ================================================== -->
+        <!-- Placed at the end of the document so the pages load faster -->
+        <script src="jquery/jquery-1.10.2.min.js"></script>
+        <script src="bootstrap/js/bootstrap.min.js"></script>
+        <script>
+            $(document).ready(function() {
+                var visibleClass = "glyphicon-collapse-up";
+                var hiddenClass = "glyphicon-collapse-down";
+                var setTitle = function(visible) {
+                    if ($(this).attr("data-visible-title") != undefined) {
+                        $(this).attr("title", $(this).attr(visible ? "data-visible-title" : "data-hidden-title"));
+                        $(this).tooltip("destroy");
+                        $(this).tooltip();
+                    }
+                };
+                var toggleCollapseButton = function() {
+                    var button = $($(this).attr('data-controller'));
+                    button.toggleClass(visibleClass+" "+hiddenClass);
+                    setTitle.call(button,$(this).hasClass("in"));
+                };
+                var controls = $(".collapse[data-controller]")
+                controls.on("shown.bs.collapse hidden.bs.collapse", toggleCollapseButton);
+                controls.each(function(i,control) {
+                    setTitle.call($($(control).attr("data-controller")), $(control).hasClass("in"));
+                });
+                $('[data-toggle="tooltip"]').tooltip();
+                $('div.markdown table').addClass("table").addClass("table-striped");
+            });
+        </script>
+        <script src="bootstrap/js/reprezenTOCBuilder.js"></script>
+    </body>
+    <!-- Generation time: 0.171 -->
+</html>
