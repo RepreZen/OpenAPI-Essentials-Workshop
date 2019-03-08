@@ -1,0 +1,38 @@
+# OpenAPI v3 Training Exercise
+
+openapi: "3.0.0"
+info:
+  version: 1.0.0
+  title: My API Spec
+  description: |
+    # Exercise - Markdown
+    
+    OpenAPI 3.0 uses the CommonMark specification for 
+    `description` properties, and other properties that allow
+    markdown formatting. 
+    
+    The following text has formatting instructions in parentheses. 
+    Translate these formatting instructions into the corresponding 
+    CommonMark syntax, and check your work using the live 
+    Documentation View on the right.
+    <hr/>
+    
+    # Introducing RoboPet
+      
+    Have you ever wished your pet would have _robot-like
+    qualities_? Consider the benefits:
+      
+    * Solar powered, no feeding, walking , or cleaning up!
+    * Snuggly as you please, with interchangeable synthetic fur coats.
+    * Replaces your home smart hub, food processor and hedge trimmer    
+
+    Visit [RoboPet's online configurator](http://robopet.io) today to 
+    build your own custom RoboPet!
+  
+  
+paths:
+  /resourceUrl:
+    get:
+      responses:
+        200:
+          description: Success
