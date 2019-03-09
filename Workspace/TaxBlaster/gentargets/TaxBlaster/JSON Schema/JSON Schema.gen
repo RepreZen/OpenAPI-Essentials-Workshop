@@ -1,0 +1,13 @@
+---
+name: "JSON Schema"
+genTemplateId: "com.reprezen.genflow.rapidml.jsonschema.XJsonSchemaGenTemplate"
+relativeOutputDir: generated
+prerequisites: null
+primarySource: 
+  path: "../../../models/TaxBlaster.rapid"
+namedSources: null 
+# The parameters object contains variables that are processed directly by the GenTemplate.
+parameters: 
+  # Defines the file for the 'JSON' output item
+  outputFileNames: #
+    JSON: "${zenModel.name}.json"

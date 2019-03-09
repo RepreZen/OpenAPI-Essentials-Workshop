@@ -1,0 +1,38 @@
+---
+name: "Swagger (RAPID-XChange Contract)"
+genTemplateId: "com.reprezen.genflow.rapidml.swagger.SwaggerContractGenTemplate"
+relativeOutputDir: generated
+prerequisites: null
+primarySource: 
+  path: "../../../models/TaxBlaster.rapid"
+namedSources: null 
+# The parameters object contains variables that are processed directly by the GenTemplate.
+parameters: 
+  # Include an empty Parameters collection on methods that don't have explicit parameters
+  retainEmptyParameters: false
+  
+  # Allows empty object values if true. Otherwise sets minProperties=1.
+  allowEmptyObject: false
+  
+  # Allows empty array values if true. Otherwise sets minItems=1.
+  allowEmptyArray: false
+  
+  # Allows empty string values if true. Otherwise sets minLength=1.
+  allowEmptyString: false
+  
+  # Inlines (embeds) array items inside the parent definition. Otherwise generates a top-level definition for array items.
+  inlineArrayItems: false
+  
+  # Inlines (embeds) reference embed elements inside the parent definition. Otherwise generates a top-level definition for array items.
+  inlineReferenceEmbeds: false
+  
+  # Fold multi-line descriptions.
+  foldMultiline: true
+  
+  # Overrides links property name, the default name for this property is `_links`.
+  linksPropertyName: "_links"
+  
+  # Defines the file for the 'JSON' output item
+  outputFileNames: #
+    JSON: "${zenModel.name}.json"
+    YAML: "${zenModel.name}.yaml"
