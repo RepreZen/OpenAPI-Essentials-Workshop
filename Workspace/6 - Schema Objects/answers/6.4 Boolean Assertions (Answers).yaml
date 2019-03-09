@@ -30,7 +30,7 @@ info:
        
     2. Create a new schema component called `AmendedTaxFiling`
        that is _both_ a `TaxFiling` and an `Amendment`. 
-
+           
 paths:
 
   /tax_payment/{id}:
@@ -156,7 +156,9 @@ components:
     TaxFiling:
       type: object
       required:
-        - filingID  
+      - filingID
+      - taxpayerID
+      - filingStatus
       properties:
         filingID:
           type: string
@@ -175,6 +177,10 @@ components:
     Amendment:
       description: a formal change to an existing document
       type: object
+      required:
+      - timestamp
+      - amendedBy
+      - originalDocumentURL 
       properties:
         timestamp:
           type: string
@@ -185,6 +191,11 @@ components:
           type: string
         changeSummary:
           type: string 
+          
+    AmendedTaxFiling:
+      allOf:
+      - $ref: "#/components/schemas/TaxFiling"
+      - $ref: "#/components/schemas/Amendment"
         
     TaxFilingStatus:
       type: string
@@ -213,7 +224,9 @@ components:
         maritalStatus:
           type: boolean
         taxDue:
-          type: number
+          oneOf:
+          - type: number
+          - $ref: "#/components/schemas/MissingValue"
   
     MissingValue:
       description:
