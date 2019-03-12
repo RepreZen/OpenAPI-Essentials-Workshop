@@ -22,7 +22,7 @@ There are many commercial and open source editors for OpenAPI. You can work with
 
 ### RepreZen API Studio Setup
 1. Go to **File > Switch Workspace > Other...** and select the `/workspace` folder from your local repo.
-2. Activate the Project Explorer view.<br/>Hint: You can restore the Project Explorer from minimized state by clicking the restore button in the trim stack:
+2. Activate the Project Explorer view.<br/>Hint: You can restore the Project Explorer from minimized state by clicking the restore button in the trim stack: <img src="https://www.reprezen.com/hubfs/Project%20Explorer%20Trim%20Stack.png" width="400" />
 3. If you don't see the exercise projects, import the projects as follows:
     * Go to **File > Import > General > Existing projects into workspace**
     * Click Browse...
