@@ -29,6 +29,8 @@ There are many commercial and open source editors for OpenAPI. You can work with
     * Click OK
     * Select all projects, and click Finish
 
+Watch the [videos here](https://products.reprezen.com/misc/getting_started_oas.html) or on [YouTube](https://www.youtube.com/watch?v=aYYChcU2oJI&list=PLLMXvAoF1MNYQUezbEEEFfL5Lt8EXTOSg) to get started.
+
 ### Swagger Setup
 
-No setup required. You may import or copy-and-paste the exercises and answers into the Swagger Editor.
+You may import or copy-and-paste the exercises and answers into the Swagger Editor.
