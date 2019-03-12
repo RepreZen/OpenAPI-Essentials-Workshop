@@ -1,5 +1,4 @@
-<img src="https://www.reprezen.com/hubfs/RepreZen_logo_no_trademark-(RGB-1024w).png" width="324"/>
-
+<a href="https://www.RepreZen.com/OpenAPI"><img src="https://www.reprezen.com/hubfs/RepreZen_logo_no_trademark-(RGB-1024w).png" width="324"/></a>
 # OpenAPI Essentials Workshop Exercises
 This project has exercises and solutions for the  OpenAPI Essentials Workshop. 
 
