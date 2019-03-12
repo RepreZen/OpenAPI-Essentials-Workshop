@@ -3,7 +3,7 @@ This project has exercises and solutions for the  OpenAPI Essentials Workshop.
 
 Source files are in OpenAPI 3.0 format.
 
-Workshop attendees will want to download or clone the repository to a writable folder to complete the exercises. 
+Workshop attendees can download or clone the repository to a writable folder to complete the exercises. 
 
 ## OpenAPI Editing Tools
 
