@@ -1,6 +1,5 @@
-# OpenAPI Workshop Content
-
-This project has content for the following OpenAPI Workshop at the 2018 APIStrat. 
+# OpenAPI Essentials Workshop Exercises
+This project has exercises and solutions for the  OpenAPI Essentials Workshop. 
 
 Source files are in OpenAPI 3.0 format.
 
@@ -11,7 +10,7 @@ Workshop attendees will want to download or clone the repository to a writable f
 There are many commercial and open source editors for OpenAPI. In this workshop, we recommend that you work with one or more of the following tools.
 
 ### RepreZen API Studio (Eclipse-based):
-* http://rzen.io/preview
+* https://www.RepreZen.com/trial-offer
     * Windows - reprezen-win64-setup.exe
     * MacOS - reprezen-macos-setup.dmg
     * Linux - reprezen-linux64-setup.run
@@ -22,8 +21,8 @@ There are many commercial and open source editors for OpenAPI. In this workshop,
 ## Workspace Setup
 
 ### RepreZen API Studio Setup
-1. Go to **File > Switch Workspace > Other...** and select the `/OASv3/workspace1` folder from your local repo.
-2. Import the projects:
+1. Go to **File > Switch Workspace > Other...** and select the `/workspace` folder from your local repo.
+2. Activate the Project Explorer view. If you don't see the exercise projects, you'll need to import the projects as follows:
     * Go to **File > Import > General > Existing projects into workspace**
     * Click Browse...
     * Click OK
@@ -31,4 +30,4 @@ There are many commercial and open source editors for OpenAPI. In this workshop,
 
 ### Swagger Setup
 
-No setup required. You may import or copy-and-paste the exercises and answers into Swagger Editor or SwaggerHub.
+No setup required. You may import or copy-and-paste the exercises and answers into the Swagger Editor.
