@@ -9,13 +9,11 @@ Workshop attendees can download or clone the repository to a writable folder to 
 
 ## OpenAPI Editing Tools
 
-There are many commercial and open source editors for OpenAPI. In this workshop, we recommend that you work with one or more of the following tools.
+There are many commercial and open source editors for OpenAPI. You can work with the following tools, or any other editing environment that supports OpenAPI 3.0.
 
-### RepreZen API Studio (Eclipse-based):
-* https://www.RepreZen.com/trial-offer
-    * Windows - reprezen-win64-setup.exe
-    * MacOS - reprezen-macos-setup.dmg
-    * Linux - reprezen-linux64-setup.run
+### RepreZen API Studio
+* [API Studio Desktop](https://www.RepreZen.com/trial-offer)<br/>Standalone API design workbench for Windows, macOS, or Linux (beta).
+* [API Studio for Eclipse](https://marketplace.eclipse.org/content/reprezen-api-studio)<br/>Plug-in for standard Eclipse IDE distributions, installed from the Eclipse Marketplace.
 
 ### Swagger (Browser-based) :
 * https://editor.swagger.io
@@ -24,7 +22,8 @@ There are many commercial and open source editors for OpenAPI. In this workshop,
 
 ### RepreZen API Studio Setup
 1. Go to **File > Switch Workspace > Other...** and select the `/workspace` folder from your local repo.
-2. Activate the Project Explorer view. If you don't see the exercise projects, you'll need to import the projects as follows:
+2. Activate the Project Explorer view.<br/>Hint: You can restore the Project Explorer from minimized state by clicking the restore button in the trim stack:
+3. If you don't see the exercise projects, import the projects as follows:
     * Go to **File > Import > General > Existing projects into workspace**
     * Click Browse...
     * Click OK
