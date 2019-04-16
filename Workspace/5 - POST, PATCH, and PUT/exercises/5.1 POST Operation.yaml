@@ -23,8 +23,8 @@ info:
        
     2. Set the successful response to use HTTP response code 201 (Created).
        The response should include:
-       * A representation of the created taxpayer object.
-       * A `Location` header with a URL for the newly created resource.
+        * A representation of the created taxpayer object.
+        * A `Location` header with a URL for the newly created resource.
 
 paths:
 

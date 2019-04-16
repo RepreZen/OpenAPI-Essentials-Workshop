@@ -16,20 +16,22 @@ info:
     that contains another object as one of its property values. 
     A TaxFiling instance with this new structure might look like this:
     
-    `{`  
-    `  "filingID" : "ASDF1234",`  
-    `  "taxpayerID" : "987-89-2345",`  
-    `  "jurisdiction" : "Internal Revenue Service",`  
-    `  "fileDate" : "2017-04-10",`  
-    `  "isJointFiling" : false,`  
-    `  "filingStatus" : "submitted",`  
-    `  "payment" : {`  
-    `    "paymentID": "P12347",`  
-    `    "date": "2018-04-10",`  
-    `    "amount": 2231.89,`  
-    `    "currency": "USD"`  
-    `  }`  
-    `}`  
+    ```
+    {
+      "filingID" : "ASDF1234",
+      "taxpayerID" : "987-89-2345",
+      "jurisdiction" : "Internal Revenue Service",
+      "fileDate" : "2017-04-10",
+      "isJointFiling" : false,
+      "filingStatus" : "submitted",
+      "payment" : {
+        "paymentID": "P12347",
+        "date": "2018-04-10",
+        "amount": 2231.89,
+        "currency": "USD"
+      }
+    }
+    ```
     
     1. Copy the object schema from the `/taxpayment/{id}` GET response
        to a new `TaxPayment` reusable schema in `/components/schemas`.

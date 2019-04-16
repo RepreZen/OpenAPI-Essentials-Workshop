@@ -17,13 +17,14 @@ info:
     Add the necessary elements to the Schema Object to make it validate
     a message payload like this:
     
-    
-    `{`  
-      `"paymentID": "P12347",`  
-      `"date": "2018-04-10",`  
-      `"amount": 2231.89,`  
-      `"currency": "USD"`  
-    `}`     
+    ```
+    {
+      "paymentID": "P12347",
+      "date": "2018-04-10",
+      "amount": 2231.89,
+      "currency": "USD"
+    }
+    ```
     
 paths:
 
